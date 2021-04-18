@@ -1,0 +1,1 @@
+void namelenght(char*str)
